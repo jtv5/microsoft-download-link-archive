@@ -1,4 +1,4 @@
-# microsoft-download-links-archive
+# microsoft-download-link-archive
 
 Archive of various Microsoft Download Links.
 
